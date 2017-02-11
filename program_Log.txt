@@ -1,0 +1,726 @@
+ 2017-01-30 15:35:33,159 -  INFO -  function info:"setup"function in activate state.
+ 2017-01-30 15:35:35,167 -  INFO -  function info:"setup"function termited.
+ 2017-01-30 15:35:35,169 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-01-30 15:35:35,170 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-01-30 15:35:35,170 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-01-30 15:36:31,164 -  WARNING -  user status: logining to master mode...
+ 2017-01-30 15:38:50,650 -  WARNING -  user status: logined to master mode.
+ 2017-01-30 15:38:50,650 -  WARNING -  master status: master function starting...
+ 2017-01-30 15:39:02,365 -  INFO -  master status: master request charge points.
+ 2017-02-04 13:44:49,573 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 13:44:51,579 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 13:44:51,581 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 13:44:51,582 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-04 13:44:51,582 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 13:46:20,147 -  INFO -  user status: Requested help.
+ 2017-02-04 13:46:39,838 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 13:46:57,490 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 13:47:12,346 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 13:47:12,346 -  WARNING -  master status: master function starting...
+ 2017-02-04 13:47:19,543 -  INFO -  master status: master request charge points.
+ 2017-02-04 13:48:04,478 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 13:48:06,483 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 13:48:06,483 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 13:48:06,483 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-04 13:48:06,483 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 13:48:41,356 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 13:48:58,233 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 13:49:08,991 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 13:49:08,991 -  WARNING -  master status: master function starting...
+ 2017-02-04 13:49:13,453 -  INFO -  master status: master request charge points.
+ 2017-02-04 13:50:12,983 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 13:50:14,983 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 13:50:14,984 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 13:50:14,984 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-04 13:50:14,984 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 13:50:19,724 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 13:50:29,427 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 13:50:29,427 -  WARNING -  master status: master function starting...
+ 2017-02-04 13:50:32,943 -  INFO -  master status: master request charge points.
+ 2017-02-04 13:53:59,635 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 13:54:01,638 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 13:54:01,638 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 13:54:01,639 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-04 13:54:01,639 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 13:54:09,103 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 13:54:15,476 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 13:54:15,476 -  WARNING -  master status: master function starting...
+ 2017-02-04 13:54:18,359 -  INFO -  master status: master request charge points.
+ 2017-02-04 13:55:25,336 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 13:55:30,085 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 13:55:30,086 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 13:55:30,086 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-04 13:55:30,086 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 13:55:34,031 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 13:55:44,896 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 13:55:44,896 -  WARNING -  master status: master function starting...
+ 2017-02-04 13:55:50,866 -  INFO -  master status: master request charge points.
+ 2017-02-04 14:04:02,498 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 14:04:04,503 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 14:04:04,504 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 14:04:04,504 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-04 14:04:04,504 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 14:04:11,917 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 14:04:19,471 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 14:04:19,471 -  WARNING -  master status: master function starting...
+ 2017-02-04 14:04:22,229 -  INFO -  master status: master request charge points.
+ 2017-02-04 14:04:56,587 -  INFO -  system status:system closeing.
+ 2017-02-04 14:04:57,589 -  INFO -  system closed.
+ 2017-02-04 14:10:00,317 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 14:10:02,326 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 14:10:02,327 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 14:10:02,327 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-04 14:10:02,327 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 14:10:08,008 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 14:10:12,572 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 14:10:12,573 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 14:10:12,573 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-04 14:10:12,574 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 14:10:18,662 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 14:10:23,819 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 14:10:23,820 -  WARNING -  master status: master function starting...
+ 2017-02-04 14:10:26,548 -  INFO -  master status: master request charge points.
+ 2017-02-04 14:14:59,411 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 14:15:04,825 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 14:15:04,826 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 14:15:04,826 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-04 14:15:04,827 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 14:15:08,284 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 14:15:18,487 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 14:15:18,488 -  WARNING -  master status: master function starting...
+ 2017-02-04 14:15:24,430 -  INFO -  master status: master request charge points.
+ 2017-02-04 14:34:16,885 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 14:34:18,890 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 14:34:18,891 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 14:34:18,893 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-04 14:34:18,893 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 14:36:50,668 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 14:36:56,750 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 14:36:56,751 -  WARNING -  master status: master function starting...
+ 2017-02-04 14:38:16,287 -  INFO -  master status: master request charge points.
+ 2017-02-04 14:41:48,226 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 14:41:53,416 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 14:41:53,417 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 14:41:53,418 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-04 14:41:53,419 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 14:42:12,637 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 14:44:25,767 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 14:44:25,768 -  WARNING -  master status: master function starting...
+ 2017-02-04 14:44:28,799 -  INFO -  master status: master request charge points.
+ 2017-02-04 14:47:37,163 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 14:47:42,969 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 14:47:42,969 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 14:47:42,970 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-04 14:47:42,971 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 14:49:06,899 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 14:50:17,145 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 14:50:17,145 -  WARNING -  master status: master function starting...
+ 2017-02-04 14:50:20,482 -  INFO -  master status: master request charge points.
+ 2017-02-04 14:55:35,390 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 14:55:42,830 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 14:55:42,831 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 14:55:42,831 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-04 14:55:42,832 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 14:57:17,867 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 14:58:18,274 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 15:00:13,052 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 15:00:48,558 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 15:00:58,310 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 15:00:58,311 -  WARNING -  master status: master function starting...
+ 2017-02-04 15:02:25,118 -  INFO -  master status: master request charge points.
+ 2017-02-04 15:09:07,100 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 15:09:09,105 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 15:09:09,106 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 15:09:09,107 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-04 15:09:09,108 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 15:11:33,833 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 15:13:19,132 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 15:13:19,132 -  WARNING -  master status: master function starting...
+ 2017-02-04 15:14:02,080 -  INFO -  master status: master request charge points.
+ 2017-02-04 15:21:59,551 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 15:22:01,559 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 15:22:01,559 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 15:22:01,560 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-04 15:22:01,560 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 15:25:04,042 -  WARNING -  user status: logining to master mode...
+ 2017-02-04 15:27:36,794 -  WARNING -  user status: logined to master mode.
+ 2017-02-04 15:27:36,794 -  WARNING -  master status: master function starting...
+ 2017-02-04 15:27:53,621 -  INFO -  master status: master request charge points.
+ 2017-02-04 15:32:16,929 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-04 15:32:18,934 -  INFO -  function info:"setup"function termited.
+ 2017-02-04 15:32:18,934 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-04 15:32:18,934 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-04 15:32:18,934 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-04 15:32:22,586 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 11:54:49,148 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 11:54:51,154 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 11:54:51,155 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 11:54:51,155 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 11:54:51,155 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 11:55:59,604 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 11:56:10,173 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 11:56:10,173 -  WARNING -  master status: master function starting...
+ 2017-02-05 11:56:15,876 -  INFO -  master status: del user.
+ 2017-02-05 11:57:31,922 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 11:57:33,926 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 11:57:33,926 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 11:57:33,926 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 11:57:33,926 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 11:58:03,720 -  INFO -  user status: Requested help.
+ 2017-02-05 11:58:15,587 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 11:58:21,049 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 11:58:21,049 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:01:24,606 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:01:26,614 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:01:26,615 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:01:26,615 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 12:01:26,615 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:01:30,022 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:01:36,701 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:01:36,701 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:01:40,143 -  INFO -  master status: del user.
+ 2017-02-05 12:03:42,354 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:03:44,356 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:03:44,356 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:03:44,357 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 12:03:44,357 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:03:48,851 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:03:55,617 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:03:55,618 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:04:00,986 -  INFO -  master status: del user.
+ 2017-02-05 12:05:31,961 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:05:33,966 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:05:33,967 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:05:33,968 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 12:05:33,968 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:06:08,579 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:06:10,584 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:06:10,584 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:06:10,585 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 12:06:10,585 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:06:12,994 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:06:15,005 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:06:15,006 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:06:15,006 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 12:06:15,007 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:06:20,518 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:06:27,117 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:06:27,118 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:07:18,555 -  INFO -  master status: del user.
+ 2017-02-05 12:08:48,113 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:08:50,116 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:08:50,116 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:08:50,116 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 12:08:50,116 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:08:52,707 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:08:58,382 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:08:58,382 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:09:01,766 -  INFO -  master status: del user.
+ 2017-02-05 12:09:16,929 -  INFO -  system status:system closeing.
+ 2017-02-05 12:09:17,932 -  INFO -  system closed.
+ 2017-02-05 12:12:05,133 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:12:07,141 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:12:07,142 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:12:07,143 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 12:12:07,143 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:12:10,875 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:12:18,477 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:12:18,477 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:12:22,161 -  INFO -  master status: master request charge points.
+ 2017-02-05 12:12:48,258 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:12:50,265 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:12:50,265 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:12:50,266 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 12:12:50,266 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:13:11,353 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:13:18,164 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:13:18,165 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:13:21,325 -  INFO -  master status: master request charge points.
+ 2017-02-05 12:18:15,219 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:18:17,222 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:18:17,223 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:18:17,223 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 12:18:17,223 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:20:06,310 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:20:13,048 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:20:13,048 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:20:15,659 -  INFO -  master status: master request charge points.
+ 2017-02-05 12:28:17,065 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:28:19,071 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:28:19,071 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:28:19,071 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 12:28:19,072 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:28:25,236 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:28:30,870 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:28:30,870 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:29:32,060 -  INFO -  master status: master request charge points.
+ 2017-02-05 12:30:42,307 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:30:42,811 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:30:44,815 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:30:44,815 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:30:44,816 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 12:30:44,816 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:30:55,500 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:33:21,782 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:33:21,782 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:33:24,627 -  INFO -  master status: master request charge points.
+ 2017-02-05 12:36:16,051 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:36:18,057 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:36:18,057 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:36:18,058 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 12:36:18,058 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:38:45,939 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:38:52,980 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:38:52,980 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:39:06,111 -  INFO -  master status: master request charge points.
+ 2017-02-05 12:41:36,010 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:41:38,017 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:41:38,018 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:41:38,019 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 12:41:38,019 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:44:13,422 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:44:18,672 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:44:18,672 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:44:22,470 -  INFO -  master status: master request charge points.
+ 2017-02-05 12:49:39,662 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 12:49:41,669 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 12:49:41,669 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 12:49:41,669 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 12:49:41,670 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 12:52:15,703 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 12:52:29,290 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 12:52:29,290 -  WARNING -  master status: master function starting...
+ 2017-02-05 12:52:32,009 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:32:27,319 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:32:29,321 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:32:29,322 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:32:29,322 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 13:32:29,322 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:32:32,683 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:32:39,596 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:32:39,596 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:32:45,281 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:33:29,792 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:33:31,796 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:33:31,797 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:33:31,798 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 13:33:31,798 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:33:34,520 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:33:41,094 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:33:41,094 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:33:46,058 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:34:21,204 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:34:23,206 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:34:23,207 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:34:23,207 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 13:34:23,207 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:34:25,921 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:34:34,785 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:34:34,786 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:34:37,052 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:35:01,144 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:35:03,151 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:35:03,152 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:35:03,152 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 13:35:03,153 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:35:07,208 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:35:47,415 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:35:49,419 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:35:49,421 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:35:49,421 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 13:35:49,422 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:36:07,224 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:36:12,503 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:36:12,504 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:36:15,579 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:36:54,366 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:36:56,373 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:36:56,374 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:36:56,375 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 13:36:56,375 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:37:04,912 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:37:12,112 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:37:12,113 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:37:14,533 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:38:43,401 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:38:45,404 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:38:45,404 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:38:45,405 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 13:38:45,405 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:40:32,733 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:40:42,381 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:40:42,381 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:40:44,690 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:41:00,461 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:41:02,464 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:41:02,465 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:41:02,465 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 13:41:02,465 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:41:17,005 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:41:34,543 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:41:34,543 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:41:36,570 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:42:40,444 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:42:42,447 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:42:42,448 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:42:42,449 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 13:42:42,449 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:42:51,057 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:43:01,343 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:43:01,344 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:43:03,346 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:45:55,876 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:45:57,884 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:45:57,885 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:45:57,885 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 13:45:57,885 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:46:00,507 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:46:07,712 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:46:07,713 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:46:09,090 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:47:19,534 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:47:21,548 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:47:21,558 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:47:21,567 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 13:47:21,573 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:47:47,529 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:47:49,532 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:47:49,533 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:47:49,533 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 13:47:49,534 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:47:55,661 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:48:30,621 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:48:32,625 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:48:32,626 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:48:32,626 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 13:48:32,627 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 13:48:35,223 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 13:48:52,612 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 13:48:52,612 -  WARNING -  master status: master function starting...
+ 2017-02-05 13:48:54,704 -  INFO -  master status: master request charge points.
+ 2017-02-05 13:58:42,522 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 13:58:44,531 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 13:58:44,531 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 13:58:44,532 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 13:58:44,532 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 14:01:31,978 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 14:01:39,727 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 14:01:39,728 -  WARNING -  master status: master function starting...
+ 2017-02-05 14:01:42,885 -  INFO -  master status: master request charge points.
+ 2017-02-05 14:07:23,878 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 14:07:25,884 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 14:07:25,885 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 14:07:25,885 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-05 14:07:25,885 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 14:09:23,827 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 14:10:07,224 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 14:10:07,225 -  WARNING -  master status: master function starting...
+ 2017-02-05 14:10:10,020 -  INFO -  master status: master request charge points.
+ 2017-02-05 14:13:00,942 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 14:13:02,949 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 14:13:02,951 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 14:13:02,951 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 14:13:02,952 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 14:14:12,522 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 14:15:58,066 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 14:17:26,384 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 14:17:26,385 -  WARNING -  master status: master function starting...
+ 2017-02-05 14:18:31,536 -  INFO -  master status: master request charge points.
+ 2017-02-05 14:35:27,158 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 14:35:29,167 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 14:35:29,168 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 14:35:29,169 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 14:35:29,170 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 14:35:46,412 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 14:35:55,904 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 14:35:55,904 -  WARNING -  master status: master function starting...
+ 2017-02-05 14:35:58,189 -  INFO -  master status: master request charge points.
+ 2017-02-05 14:36:45,830 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-05 14:36:47,836 -  INFO -  function info:"setup"function termited.
+ 2017-02-05 14:36:47,837 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-05 14:36:47,838 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-05 14:36:47,838 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-05 14:36:51,189 -  WARNING -  user status: logining to master mode...
+ 2017-02-05 14:38:50,635 -  WARNING -  user status: logined to master mode.
+ 2017-02-05 14:38:50,636 -  WARNING -  master status: master function starting...
+ 2017-02-05 14:39:55,169 -  INFO -  master status: master request charge points.
+ 2017-02-11 13:41:56,122 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-11 13:41:58,129 -  INFO -  function info:"setup"function termited.
+ 2017-02-11 13:41:58,130 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-11 13:41:58,132 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-11 13:41:58,132 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 13:42:02,982 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-11 13:42:04,984 -  INFO -  function info:"setup"function termited.
+ 2017-02-11 13:42:04,985 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-11 13:42:04,986 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-11 13:42:04,986 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 13:42:52,660 -  INFO -  function info:user logining...
+ 2017-02-11 13:43:37,647 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-11 13:43:39,657 -  INFO -  function info:"setup"function termited.
+ 2017-02-11 13:43:39,657 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-11 13:43:39,657 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-11 13:43:39,658 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 13:43:39,735 -  INFO -  function info:user logining...
+ 2017-02-11 13:43:41,291 -  INFO -  user state: writing password.
+ 2017-02-11 13:43:43,022 -  INFO -  user state:user login failed.
+ 2017-02-11 13:43:49,792 -  INFO -  function info:user logining...
+ 2017-02-11 13:45:39,093 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-11 13:45:41,097 -  INFO -  function info:"setup"function termited.
+ 2017-02-11 13:45:41,099 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-11 13:45:41,100 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-11 13:45:41,100 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 13:45:43,678 -  INFO -  function info:user logining...
+ 2017-02-11 13:46:26,466 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-11 13:46:28,472 -  INFO -  function info:"setup"function termited.
+ 2017-02-11 13:46:28,474 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-11 13:46:28,474 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-11 13:46:28,474 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 13:46:28,494 -  INFO -  function info:user logining...
+ 2017-02-11 13:46:30,417 -  INFO -  user state: writing password.
+ 2017-02-11 13:46:31,432 -  WARNING -  security state: user user111 logined
+ 2017-02-11 13:46:31,433 -  INFO -  user state:Changing mode to private mode.
+ 2017-02-11 13:46:31,433 -  INFO -  program status:changed to privted mode.
+ 2017-02-11 13:46:35,434 -  INFO -  user status:buying item.
+ 2017-02-11 13:46:44,102 -  INFO -  user status:buying item:커피
+ 2017-02-11 13:46:44,103 -  INFO -  program status: Processing...
+ 2017-02-11 13:46:44,103 -  INFO -  program status: Processing complete!
+ 2017-02-11 13:46:48,184 -  INFO -  user status:buying item.
+ 2017-02-11 13:46:52,169 -  INFO -  user status:buying item:커피
+ 2017-02-11 13:46:52,169 -  INFO -  program status: Processing...
+ 2017-02-11 13:46:52,170 -  INFO -  program status: Processing complete!
+ 2017-02-11 13:47:06,470 -  WARNING -  user status: logouting...
+ 2017-02-11 13:47:06,472 -  INFO -  user status: logouted.
+ 2017-02-11 13:47:06,472 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 13:48:01,974 -  INFO -  system status:system closeing.
+ 2017-02-11 13:48:02,979 -  INFO -  system closed.
+ 2017-02-11 13:54:05,103 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-11 13:54:07,108 -  INFO -  function info:"setup"function termited.
+ 2017-02-11 13:54:07,110 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-11 13:54:07,110 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-11 13:54:07,110 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 13:54:48,618 -  INFO -  function info:user logining...
+ 2017-02-11 13:55:07,243 -  INFO -  user state: writing password.
+ 2017-02-11 13:55:12,483 -  WARNING -  security state: user user111 logined
+ 2017-02-11 13:55:13,927 -  INFO -  user state:Changing mode to private mode.
+ 2017-02-11 13:55:15,394 -  INFO -  program status:changed to privted mode.
+ 2017-02-11 13:55:26,440 -  INFO -  user status:buying item.
+ 2017-02-11 13:56:37,837 -  INFO -  user status:buying item:커피
+ 2017-02-11 13:56:39,965 -  INFO -  user status: failed to buy item:0.(not enogh points)
+ 2017-02-11 13:56:54,129 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-11 13:56:56,139 -  INFO -  function info:"setup"function termited.
+ 2017-02-11 13:56:56,139 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-11 13:56:56,140 -  INFO -  val info:ITEMSFORPRO = {'원두커피': 200, '커피': 100}
+ 2017-02-11 13:56:56,140 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 13:59:21,379 -  INFO -  function info:user logining...
+ 2017-02-11 13:59:23,622 -  INFO -  user state: writing password.
+ 2017-02-11 13:59:24,470 -  WARNING -  security state: user user111 logined
+ 2017-02-11 13:59:24,471 -  INFO -  user state:Changing mode to private mode.
+ 2017-02-11 13:59:24,471 -  INFO -  program status:changed to privted mode.
+ 2017-02-11 13:59:26,395 -  INFO -  user status:buying item.
+ 2017-02-11 13:59:29,102 -  INFO -  user status:buying item:커피
+ 2017-02-11 13:59:29,102 -  INFO -  program status: Processing...
+ 2017-02-11 13:59:29,102 -  INFO -  program status: Processing complete!
+ 2017-02-11 13:59:33,600 -  INFO -  user status:buying item.
+ 2017-02-11 13:59:36,026 -  INFO -  user status:buying item:커피
+ 2017-02-11 13:59:36,026 -  INFO -  program status: Processing...
+ 2017-02-11 13:59:36,028 -  INFO -  program status: Processing complete!
+ 2017-02-11 13:59:39,974 -  INFO -  user status:buying item.
+ 2017-02-11 13:59:41,459 -  INFO -  user status:buying item:커피
+ 2017-02-11 13:59:41,459 -  INFO -  user status: failed to buy item:0.(not enogh points)
+ 2017-02-11 14:01:56,937 -  WARNING -  user status: logouting...
+ 2017-02-11 14:01:56,937 -  INFO -  user status: logouted.
+ 2017-02-11 14:01:56,938 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 14:02:03,744 -  WARNING -  user status: logining to master mode...
+ 2017-02-11 14:03:07,891 -  WARNING -  user status: logined to master mode.
+ 2017-02-11 14:03:07,892 -  WARNING -  master status: master function starting...
+ 2017-02-11 14:03:32,092 -  INFO -  master status: master request charge points.
+ 2017-02-11 14:03:49,940 -  INFO -  system status:system closeing.
+ 2017-02-11 14:03:50,942 -  INFO -  system closed.
+ 2017-02-11 14:07:11,455 -  INFO -  function info:"setup"function in activate state.
+ 2017-02-11 14:07:13,463 -  INFO -  function info:"setup"function termited.
+ 2017-02-11 14:07:13,464 -  INFO -  val info:ITEMSFORPRO_RAW = {
+  "커피": 100,
+  "원두커피": 200
+}
+ 2017-02-11 14:07:13,464 -  INFO -  val info:ITEMSFORPRO = {'커피': 100, '원두커피': 200}
+ 2017-02-11 14:07:13,465 -  INFO -  function info:"setup_login"function in activate state.
+ 2017-02-11 14:07:19,370 -  WARNING -  user status: logining to master mode...
+ 2017-02-11 14:07:28,384 -  WARNING -  user status: logined to master mode.
+ 2017-02-11 14:07:28,384 -  WARNING -  master status: master function starting...
+ 2017-02-11 14:07:33,020 -  INFO -  master status: master request charge points.
+ 2017-02-11 14:10:12,453 -  INFO -  system status:system closeing.
+ 2017-02-11 14:10:13,454 -  INFO -  system closed.
